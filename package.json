@@ -1,0 +1,14 @@
+{
+  "name": "p11y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p11y.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pa11y": "^5.0.4"
+  }
+}
